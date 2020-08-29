@@ -1,0 +1,16 @@
+button {
+  border: 0px solid white;
+  background-color: white;
+}
+.aloo {
+  margin: 2% 10%;
+}
+footer {
+  background-color: gray;
+}
+.fa-heart::before {
+  color: red;
+}
+#phoot{
+    height: 500px;
+}
